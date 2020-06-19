@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result</title>
+</head>
+<style>
+    body{
+              background-attachment: fixed;
+              background-size: cover;
+          }
+</style>
+{% load static %}
+<body style="background-image:url({% static "bg.jpeg" %}) "></body>
+<center><h1>Chat Sentiment Analysis</h1> </center>
+<br>
+<br>
+<br>
+
+<center>
+
+<div style="overflow: auto; ">
+<img src="data:image/png;base64,{{ indi|safe }}" height="850" >
+    <br>
+</div>
+	<br>
+	<br>
+	<br>
+<div style="overflow: auto">
+	
+
+    <img src="data:image/png;base64,{{ full|safe }}">
+    </center>
+</div >
+
+
+</body>
+</html>
