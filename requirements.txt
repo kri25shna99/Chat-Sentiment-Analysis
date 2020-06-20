@@ -33,13 +33,8 @@ cffi==1.14.0
 chardet==3.0.4
 Click==7.0
 cloudpickle==1.3.0
-clyent==1.2.2
 colorama==0.4.3
 commonmark==0.9.1
-conda==4.8.3
-conda-build==3.18.11
-conda-package-handling==1.6.0
-conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cryptography==2.8
 cycler==0.10.0
@@ -96,12 +91,6 @@ jmespath==0.9.5
 joblib==0.14.1
 json5==0.9.1
 jsonschema==3.2.0
-jupyter==1.0.0
-jupyter-client==5.3.4
-jupyter-console==6.1.0
-jupyter-core==4.6.1
-jupyterlab==1.2.6
-jupyterlab-server==1.0.6
 Keras==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
@@ -146,9 +135,6 @@ opencv-python==4.2.0.34
 openpyxl==3.0.3
 openTSNE==0.3.11
 opt-einsum==3.2.1
-orange-canvas-core==0.1.7
-orange-widget-base==4.0.1
-Orange3==3.23.1
 packaging==20.1
 pandas==1.0.1
 pandocfilters==1.4.2
