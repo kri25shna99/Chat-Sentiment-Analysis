@@ -165,7 +165,6 @@ pyflakes==2.1.1
 Pygments==2.5.2
 pylint==2.4.4
 pynndescent==0.3.3
-pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
 pyqtgraph==0.10.0
