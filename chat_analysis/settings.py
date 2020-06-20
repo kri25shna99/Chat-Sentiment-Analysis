@@ -25,7 +25,7 @@ SECRET_KEY = '9f+#c-k&ub9czo(&2c#62$dafc%-(r2f9^7agdnr5(!yhw4a!l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://chatsentimentanalzer.herokuapp.com/']
+ALLOWED_HOSTS = ['chatsentimentanalzer.herokuapp.com']
 
 
 # Application definition
